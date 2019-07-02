@@ -1,0 +1,36 @@
+{
+  "name": "node-express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "barcode": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "crypto": "^1.0.1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "express-jwt": "^5.3.1",
+    "express-session": "^1.16.1",
+    "express-ws": "^4.0.0",
+    "formidable": "^1.2.1",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.1",
+    "http-errors": "~1.6.2",
+    "imageMagick": "^0.1.2",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^4.1.0",
+    "morgan": "~1.9.0",
+    "mysql": "^2.17.1",
+    "node-fetch": "^2.4.1",
+    "node-xlsx": "^0.15.0",
+    "querystring": "^0.2.0",
+    "session-file-store": "^1.2.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.9.0",
+    "zopsdk-node": "0.0.2"
+  }
+}
